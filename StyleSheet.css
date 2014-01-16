@@ -1,0 +1,42 @@
+﻿body
+{
+}
+
+img
+{
+    height: 90PX;
+    width: 90PX;
+    border-bottom-left-radius: 22px;
+    border-bottom-right-radius: 42px;
+    box-shadow: -1px 2px 39px #2141e0;
+}
+H1
+{
+    text-align: center;
+    font-family: Hobo Std;
+}
+H2
+{
+    text-align: center;
+    font-family: Hobo Std;
+}
+
+iframe
+{
+    max-height: 90%;
+    max-width: 100%;
+}
+p
+{
+    text-align: center;
+    font-family: Hobo Std;
+}
+
+.imgLink
+{
+    height: 70px;
+    width: 70px;
+}
+
+a {text-decoration: none}
+
